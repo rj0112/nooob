@@ -1,0 +1,5 @@
+{
+	"ip":"RJSMP95.aternos.me",
+	"port": "61052",
+	"name": "ghochu"
+}
